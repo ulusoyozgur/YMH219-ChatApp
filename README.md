@@ -60,7 +60,13 @@ Gerçek yerel TCP bağlantılarıyla 16 otomatik kontrol uygulanır: kullanıcı
 
 ## Ekran görüntüleri
 
-Ekran görüntüleri henüz eklenmemiştir.
+### Sunucu ve bağlı kullanıcı
+
+![Sunucu mesajlaşma ekranı](docs/01-sunucu.png)
+
+### İstemci
+
+![İstemci mesajlaşma ekranı](docs/02-istemci.png)
 
 ## Sınırlamalar
 
